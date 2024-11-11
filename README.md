@@ -1,1 +1,1 @@
-# british-airways-data-science
+# British Airways Data Science Challenge ✈️
